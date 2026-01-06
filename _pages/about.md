@@ -23,7 +23,7 @@ I am a Research Associate Professor with the [Department of Computer Science and
 
 
 # Research
-My research interests include **machine learning**, **industrial artificial intelligence**, and **operations research**.  Currently I am focusing on building machine learning methodologies, such as self-supervised learning, reinforcement learning, large pre-trained models, and heuristics, for computational optimization problem-solving. The goal is to develop automated and autonomous computational solutions that address modeling and optimization challenges in modern AI- and robotics-driven industrial engineering.
+My research interests include **machine learning**, **industrial artificial intelligence**, and **operations research**.  Currently I am working on building machine learning methodologies, such as self-supervised learning, reinforcement learning, large pre-trained models, and heuristics, for computational optimization problem-solving. The goal is to develop automated and autonomous computational solutions that address modeling and optimization challenges in AI- and robotics-driven industrial engineering.
 
 My research findings have been published in top-tier journals, including the _Journal of Machine Learning Research_, _Transactions on Machine Learning Research_, _IEEE Transactions on Evolutionary Computation_, _IEEE Transactions on Cybernetics_, _IEEE Transactions on Emerging Topics in Computational Intelligence_, and _IEEE Transactions on Parallel and Distributed Systems_.
 
