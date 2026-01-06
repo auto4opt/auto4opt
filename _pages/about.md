@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# Basic Information.
+# Basic Information
 I am a Research Associate Professor (研究副教授) with the [Department of Computer Science and Engineering](https://cse.sustech.edu.cn/en/site/index/), [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/) (南方科技大学) since 2025. Prior to this, I was a Postdoctoral Fellow and then Research Assistant Professor at SUSTech from 2019 to 2024. I obtained my Ph.D. degree from a joint doctoral program with Beijing University of Technology, China, and The University of New South Wales, Australia, in 2019.
 
 
