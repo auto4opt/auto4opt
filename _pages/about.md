@@ -27,10 +27,10 @@ My research interests include **machine learning**, **industrial artificial inte
 
 My research findings have been published in top-tier journals, including the _Journal of Machine Learning Research_, _Transactions on Machine Learning Research_, _IEEE Transactions on Evolutionary Computation_, _IEEE Transactions on Cybernetics_, _IEEE Transactions on Emerging Topics in Computational Intelligence_, and _IEEE Transactions on Parallel and Distributed Systems_.
 
-As a Principal Investigator, I have secured research grants from the National Natural Science Foundation of China, the Guangdong Basic and Applied Basic Research Foundation, the Shenzhen Municipal Human Resources and Social Security Bureau, and a number of industry partners.
+As a Principal Investigator, I have secured research grants from the National Natural Science Foundation of China, Guangdong Basic and Applied Basic Research Foundation, Shenzhen Municipal Human Resources and Social Security Bureau, and a number of industry partners.
 
 # Student Supervision
-I supervise Master students in Computer Science and Engineering. The supervision is based on the principle of honesty and equality. I work closely with students by inspiring them with research ideas, guiding experiments, and assisting in paper writing, ensuring that they grow rapidly as academic researchers or technical experts. My students consistently publish in flagship IEEE Transactions and JCR Q1 journals. The team offers extensive support for students' research, conference travel, and career development.
+I supervise Master students in Computer Science and Engineering. The supervision is based on the principle of honesty and equality. I work closely with students by inspiring them with research ideas, guiding experiments, and assisting in paper-writing, ensuring that they grow rapidly as academic researchers or technical experts. My students consistently publish in flagship IEEE Transactions and JCR Q1 journals. The team offers extensive support for students' research, conference travel, and career development.
 
 
 # Selected Publications
