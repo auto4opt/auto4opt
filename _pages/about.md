@@ -90,5 +90,4 @@ I supervise Master students in Computer Science and Engineering. The supervision
   _IEEE Transactions on Evolutionary Computation (TEVC)_, 2019, 23(2): 247-257.
 
 \
-\
   Last update: 01/2026
