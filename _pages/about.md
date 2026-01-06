@@ -18,19 +18,24 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# Basic Info.
-I am a Research Associate Professor with the [Department of Computer Science and Engineering](https://cse.sustech.edu.cn/en/site/index/), [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/) ([南方科技大学](https://www.sustech.edu.cn/)) since 2025. Prior to this, I was a Postdoctoral Fellow and then Research Assistant Professor at SUSTech during 2019 and 2024. I obtained my Ph.D. degree from a joint program with Beijing University of Technology, China, and The University of New South Wales, Australia, in 2019.
+# Basic Information.
+I am a Research Associate Professor (研究副教授) with the [Department of Computer Science and Engineering](https://cse.sustech.edu.cn/en/site/index/), [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/) ([南方科技大学](https://www.sustech.edu.cn/)) since 2025. Prior to this, I was a Postdoctoral Fellow and then Research Assistant Professor at SUSTech from 2019 to 2024. I obtained my Ph.D. degree from a joint doctoral program with Beijing University of Technology, China, and The University of New South Wales, Australia, in 2019.
 
 
-# Research
-My research interests include **machine learning**, **industrial artificial intelligence**, and **operations research**.  Currently I am working on building machine learning methodologies, such as self-supervised learning, reinforcement learning, large pre-trained models, and heuristics, for computational optimization problem-solving. The goal is to develop automated and autonomous computational solutions that address modeling and optimization challenges in AI- and robotics-driven industrial engineering.
+# Academic Research
+My research interests include **machine learning**, **industrial artificial intelligence**, and **operations research**.  Currently, I focus on developing machine learning methodologies, such as self-supervised learning, reinforcement learning, large pre-trained models, and heuristics, for computational optimization and decision-making problems. The goal is to build automated and autonomous computational solutions that address modeling and optimization challenges in AI- and robotics-driven industrial engineering.
 
-My research findings have been published in top-tier journals, including the _Journal of Machine Learning Research_, _Transactions on Machine Learning Research_, _IEEE Transactions on Evolutionary Computation_, _IEEE Transactions on Cybernetics_, _IEEE Transactions on Emerging Topics in Computational Intelligence_, and _IEEE Transactions on Parallel and Distributed Systems_.
+My research outcomes have been published in top-tier journals, including the _Journal of Machine Learning Research_, _Transactions on Machine Learning Research_, _IEEE Transactions on Evolutionary Computation_, _IEEE Transactions on Cybernetics_, _IEEE Transactions on Emerging Topics in Computational Intelligence_, and _IEEE Transactions on Parallel and Distributed Systems_.
 
-As a Principal Investigator, I have secured research grants from the National Natural Science Foundation of China, Guangdong Basic and Applied Basic Research Foundation, Shenzhen Municipal Human Resources and Social Security Bureau, and a number of industry partners.
+As a Principal Investigator, I have secured competitive research grants from the National Natural Science Foundation of China, Guangdong Basic and Applied Basic Research Foundation, Shenzhen Municipal Human Resources and Social Security Bureau, as well as industry partners.
+
+
+# Industrial Applications
+My research outcomes have been successfully applied to visual–tactile perception, autonomous planning and decision-making in intelligent robotics. The resulting technologies are under commercialization via a visual–tactile robotic demonstration system and seven-axis dual-arm mobile manipulation robots.
+
 
 # Student Supervision
-I supervise Master students in Computer Science and Engineering. The supervision is based on the principle of honesty and equality. I work closely with students by inspiring them with research ideas, guiding experiments, and assisting in paper-writing, ensuring that they grow rapidly as academic researchers or technical experts. My students consistently publish in flagship IEEE Transactions and JCR Q1 journals. The team offers extensive support for students' research, conference travel, and career development.
+I supervise Master’s students in Computer Science and Engineering through close, hands-on mentorship rooted in academic integrity and equal collaboration. I actively engage with students in research ideation, experimental guidance, and manuscript development, supporting their transition into capable researchers and technical experts. All the students under my supervision have achieved publications in flagship IEEE Transactions and JCR Q1 journals. The team provides sustained support for academic research, international conferences, and career advancement.
 
 
 # Selected Publications
