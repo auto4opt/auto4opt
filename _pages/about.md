@@ -31,7 +31,7 @@ As a Principal Investigator, I have secured competitive research grants from the
 
 
 # Industrial Applications
-My research outcomes have been successfully applied to visual–tactile perception, autonomous planning and decision-making in intelligent robotics. The resulting technologies are under commercialization via a visual–tactile robotic demonstration system and seven-axis dual-arm mobile manipulation robots.
+My research outcomes have been successfully applied to visual–tactile perception, autonomous planning and decision-making in intelligent robotics. The resulting technologies are under commercialization via visual–tactile robotic demonstration systems and seven-axis dual-arm mobile manipulation robots.
 
 
 # Student Supervision
