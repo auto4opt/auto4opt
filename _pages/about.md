@@ -35,7 +35,7 @@ My research outcomes have been successfully applied to visual–tactile percepti
 
 
 # Student Supervision
-I supervise Master’s students in Computer Science and Engineering through close, hands-on mentorship rooted in academic integrity and equal collaboration. I actively engage with students in research ideation, experimental guidance, and manuscript development, supporting their transition into capable researchers and technical experts. All the students under my supervision have achieved publications in flagship IEEE Transactions and JCR Q1 journals. The team provides sustained support for academic research, international conferences, and career advancement.
+I supervise Master students in Computer Science and Engineering through close, hands-on mentorship rooted in academic integrity and equal collaboration. I actively engage with students in research ideation, experimental guidance, and manuscript development, supporting their transition into capable researchers and technical experts. All the students under my supervision have achieved publications in flagship IEEE Transactions and JCR Q1 journals. The team provides sustained support for academic research, international conferences, and career advancement.
 
 
 # Selected Publications
