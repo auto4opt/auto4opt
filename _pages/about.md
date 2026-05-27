@@ -25,7 +25,7 @@ I am a Research Associate Professor (研究副教授) with the [Department of Co
 # Academic Research
 My research interests include **machine learning**, **industrial artificial intelligence**, and **operations research**.  Currently, I focus on developing machine learning methodologies, such as self-supervised learning, reinforcement learning, large pre-trained models, and heuristics, for computational optimization and decision-making problems. The goal is to build automated and autonomous computational solutions that address modeling and optimization challenges in AI- and robotics-driven industrial engineering.
 
-My research outcomes have been published in top-tier journals, including the _Journal of Machine Learning Research_, _Transactions on Machine Learning Research_, _IEEE Transactions on Evolutionary Computation_, _IEEE Transactions on Cybernetics_, _IEEE Transactions on Emerging Topics in Computational Intelligence_, and _IEEE Transactions on Parallel and Distributed Systems_.
+My research outcomes have been published in top-tier journals and conferences, including the _Journal of Machine Learning Research (JMLR)_, _Transactions on Machine Learning Research (TMLR)_, _IEEE Transactions on Evolutionary Computation (TEVC)_, _IEEE Transactions on Cybernetics (TCYB)_, _IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)_, _IEEE Transactions on Parallel and Distributed Systems (TPDS)_, and _International Conference on Machine Learning (ICML)_.
 
 As a Principal Investigator, I have secured competitive research grants from the National Natural Science Foundation of China, Guangdong Basic and Applied Basic Research Foundation, Shenzhen Municipal Human Resources and Social Security Bureau, as well as industry partners.
 
