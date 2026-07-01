@@ -39,6 +39,11 @@ I supervise Master students in Computer Science and Engineering through close, h
 
 
 # Selected Publications
+- Fast bi-level task assignment and routing for truck-drone collaborative delivery
+
+  He Z, Yang J*, **Zhao Q**, Yang H, Chen X, Zhou X, Shi Y
+
+  _IEEE Transactions on Intelligent Transportation Systems (TITS)_, 2026. 
 
 - AutoOpt: A general framework for automatically designing metaheuristic optimization algorithms with diverse structures
 
