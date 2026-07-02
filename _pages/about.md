@@ -23,7 +23,7 @@ I am a Research Associate Professor (研究副教授) with the [Department of Co
 
 
 # Academic Research
-My research interests include **machine learning**, **Robotics**, and **operations research**.  Currently, I focus on developing machine learning methodologies, such as self-supervised learning, reinforcement learning, large pre-trained models, and heuristics, for computational optimization and decision-making problems. The goal is to build automated and autonomous computational solutions that address modeling and optimization challenges in AI- and robotics-driven industrial engineering.
+My research interests include **machine learning**, **robotics**, and **operations research**.  Currently, I focus on developing machine learning methodologies, such as self-supervised learning, reinforcement learning, large pre-trained models, and heuristics, for computational optimization and decision-making problems. The goal is to build automated and autonomous computational solutions that address modeling and optimization challenges in AI- and robotics-driven industrial engineering.
 
 My research outcomes have been published in top-tier journals and conferences, including the _Journal of Machine Learning Research (JMLR)_, _Transactions on Machine Learning Research (TMLR)_, _International Conference on Machine Learning (ICML)_, _IEEE Transactions on Evolutionary Computation (TEVC)_, _IEEE Transactions on Cybernetics (TCYB)_, _IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)_,  _IEEE Transactions on Parallel and Distributed Systems (TPDS)_, and _IEEE Transactions on Intelligent Transportation Systems (TITS)_.
 
