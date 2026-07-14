@@ -19,19 +19,19 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Biography
-I am a Research Associate Professor (研究副教授) with the [Department of Computer Science and Engineering](https://cse.sustech.edu.cn/en/site/index/), [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/) (南方科技大学) since 2025. Prior to this, I was a Postdoctoral Fellow and then Research Assistant Professor at SUSTech from 2019 to 2024. I obtained my Ph.D. degree from a joint doctoral program with Beijing University of Technology, China, and The University of New South Wales, Australia, in 2019.
+I am a Research Associate Professor (研究副教授) at the Department of Computer Science and Engineering, Southern University of Science and Technology (SUSTech, 南方科技大学) since 2025. Prior to this, I was a Postdoctoral Fellow and then Research Assistant Professor at SUSTech from 2019 to 2024. I obtained my Ph.D. degree from a joint doctoral program with Beijing University of Technology, China, and The University of New South Wales, Australia, in 2019.
 
 
 # Academic Research
 My research interests include **machine learning**, **robotics**, and **operations research**.  Currently, I focus on developing machine learning methodologies, such as self-supervised learning, reinforcement learning, large pre-trained models, and heuristics, for computational optimization and decision-making problems. The goal is to build automated and autonomous computational solutions that address modeling and optimization challenges in AI- and robotics-driven industrial engineering.
 
-My research outcomes have been published in top-tier journals and conferences, including the _Journal of Machine Learning Research (JMLR)_, _Transactions on Machine Learning Research (TMLR)_, _International Conference on Machine Learning (ICML)_, _Robotics: Science and Systems (RSS)_, _IEEE Transactions on Cybernetics (TCYB)_, _IEEE Transactions on Parallel and Distributed Systems (TPDS)_, _IEEE Transactions on Intelligent Transportation Systems (TITS), _IEEE Transactions on Evolutionary Computation (TEVC)_, and _IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)_.
+My research outcomes have been published in top-tier journals and conferences, including the _Journal of Machine Learning Research (JMLR)_, _Transactions on Machine Learning Research (TMLR)_, _International Conference on Machine Learning (ICML)_, _Robotics: Science and Systems (RSS)_, and _IEEE TCYB/TPDS/TITS/TEVC/TETCI_.
 
 As a Principal Investigator, I have secured competitive research grants from the National Natural Science Foundation of China, Guangdong Basic and Applied Basic Research Foundation, Shenzhen Municipal Human Resources and Social Security Bureau, as well as industry partners.
 
 
 # Industrial Applications
-My research outcomes have been successfully applied to visual–tactile perception, autonomous planning and decision-making in intelligent robotics. The resulting technologies are under commercialization via visual–tactile robotic demonstration systems and seven-axis dual-arm mobile manipulation robots.
+My research outcomes have been successfully applied to visual–tactile perception, autonomous planning and decision-making in intelligent robotics. The resulting technologies are under commercialization via seven-axis dual-arm mobile manipulation robot， visual–tactile robotic demonstration & data collection system, and welding robot molten pool monitoring system.
 
 
 # Student Supervision
