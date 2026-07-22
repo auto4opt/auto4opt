@@ -23,9 +23,9 @@ I am a Research Associate Professor (研究副教授) with the Department of Com
 
 
 # Research
-My research interests lie at the intersection of **machine learning**, **operations research**, and **robotics**. Advances in AI and robotics create new problems in industrial engineering. I develop learning- and optimization-based methods, including self-supervised learning, reinforcement learning, large pre-trained models, and heuristic algorithms, to automate the formulation and solution of these problems.
+My research interests lie at the intersection of **machine learning**, **operations research**, and **robotics**. Advances in AI and robotics create new problems in industrial engineering. I develop learning- and optimization-based methods, including self-supervised learning, reinforcement learning, large pre-trained models, and heuristics, to automate the formulation and solution of these problems.
 
-My research has been published in top-tier journals and conferences, including the Journal of Machine Learning Research (JMLR), Transactions on Machine Learning Research (TMLR), International Conference on Machine Learning (ICML), Robotics: Science and Systems (RSS), and IEEE TCYB/TPDS/TITS/TEVC/TETCI.
+My research has been published in top-tier journals and conferences, including the Journal of Machine Learning Research (JMLR), Transactions on Machine Learning Research (TMLR), International Conference on Machine Learning (ICML), Robotics: Science and Systems (RSS), and IEEE TCYB/TPDS/TEVC/TITS/TETCI.
 
 As a Principal Investigator, I have secured competitive research grants from the National Natural Science Foundation of China, Guangdong Basic and Applied Basic Research Foundation, Shenzhen Municipal Human Resources and Social Security Bureau, as well as industry partners.
 
@@ -35,16 +35,15 @@ My research has been applied in visual-tactile perception, autonomous planning a
 
 
 # Student Supervision
-I supervise master's students in Computer Science and Engineering through mentorship grounded in academic integrity, mutual respect, and collegial collaboration. I provide hands-on guidance in research ideation, experimental design, and manuscript preparation, helping students develop into capable researchers or technical professionals. Every student I have supervised has published work in IEEE Transactions or other JCR Q1 journals. The group provides sustained support for academic travel, industry-academia collaboration, and career development.
+I supervise master's students in Computer Science and Engineering. I provide hands-on guidance in research ideation, experimental design, and manuscript preparation, helping students develop into capable researchers or technical professionals. Every student I have supervised has published work in IEEE Transactions or other JCR Q1 journals. The group provides sustained support for academic travel, industry-academia collaboration, and career development.
 
- 
 
 # Selected Publications
 - Fast bi-level task assignment and routing for truck-drone collaborative delivery
 
   He Z, Yang J*, **Zhao Q**, Yang H, Chen X, Zhou X, Shi Y
 
-  _IEEE Transactions on Intelligent Transportation Systems (TITS)_, 2026. 
+  _IEEE Transactions on Intelligent Transportation Systems (TITS)_, 2026, early access, doi: 10.1109/TITS.2026.3711461. 
 
 - AutoOpt: A general framework for automatically designing metaheuristic optimization algorithms with diverse structures
 
