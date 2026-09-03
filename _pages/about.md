@@ -32,7 +32,7 @@ As a Principal Investigator, I have secured competitive research grants from the
 
 
 # Application
-My research has been applied autonomous planning, decision-making, and control for intelligent robots. The resulting technologies are being commercialized as domain-specific embodied AI operating systems, dual-arm wheeled robots, and wheeled humanoid robots.
+My research has been applied to autonomous planning, decision-making, and control for intelligent robots. The resulting technologies are being commercialized as domain-specific embodied AI operating systems, dual-arm wheeled robots, and wheeled humanoid robots.
 
 
 # Student Supervision
