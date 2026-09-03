@@ -35,7 +35,7 @@ My research has been applied in visual-tactile perception, autonomous planning a
 
 
 # Student Supervision
-I supervise master's students in Computer Science and Engineering. I provide hands-on guidance in research ideation, experimental design, and manuscript preparation, helping students develop into capable researchers or technical professionals. Every student I have supervised has published work in IEEE Transactions or other JCR Q1 journals. The group provides sustained support for academic travel, industry-academia collaboration, and career development.
+I supervise master's students in Computer Science and Engineering. Every student I have supervised has published work in IEEE Transactions or other JCR Q1 journals. The group provides sustained support for academic travel, industry-academia collaboration, and career development.
 
 
 # Selected Publications
