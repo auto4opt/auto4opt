@@ -20,7 +20,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About
-I am a Research Associate Professor (研究副教授) with the Department of Computer Science and Engineering, Southern University of Science and Technology (SUSTech, 南方科技大学) since 2025. Prior to this, I was a Postdoctoral Fellow and then Research Assistant Professor at SUSTech from 2019 to 2024. I obtained Ph.D. degree from a joint program with Beijing University of Technology, China, and The University of New South Wales, Australia, in 2019.
+I am a Research Associate Professor (研究副教授) with the Department of Computer Science and Engineering, Southern University of Science and Technology (SUSTech, 南方科技大学) since 2025. I was a Postdoctoral Fellow and then Research Assistant Professor at SUSTech during 2019 and 2024. I obtained Ph.D. degree from a joint program with Beijing University of Technology, China, and The University of New South Wales, Australia, in 2019.
 
 
 # Research
@@ -32,11 +32,11 @@ As a Principal Investigator, I have secured competitive research grants from the
 
 
 # Application
-My research has been applied in visual-tactile perception, autonomous planning and decision-making for intelligent robots. The resulting technologies are being commercialized through a seven-axis dual-arm mobile manipulation robot, a visual-tactile robotic demonstration and data collection system, and a molten-pool monitoring system for robotic welding.
+My research has been applied autonomous planning, decision-making, and control for intelligent robots. The resulting technologies are being commercialized as domain-specific embodied AI operating systems, dual-arm wheeled robots, and wheeled humanoid robots.
 
 
 # Student Supervision
-I supervise master's students in Computer Science and Engineering. Every student I have supervised has published work in IEEE Transactions or other JCR Q1 journals. The group provides sustained support for academic travel, industry-academia collaboration, and career development.
+I supervise master's students in Computer Science and Engineering. Our work is driven by real-world challenges, and we collaborate closely with industry to develop practical solutions.
 
 
 # Selected Publications
